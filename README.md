@@ -99,11 +99,7 @@ npm run dev # Start the frontend
 
 ---
 
-## API Endpoints
-| Method | Endpoint      | Description                  |
-|--------|--------------|------------------------------|
-| POST   | /api/signup  | Register a new user         |
-| POST   | /api/login   | Authenticate user login     |
+
 
 ---
 
@@ -124,42 +120,21 @@ npm run dev # Start the frontend
 
 ---
 
-## Video Demonstration
-A video showcasing the application is available at:
-[Google Drive Link](#)
+
 
 ---
 
 ## GitHub Repository
 The complete source code is available at:
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/Deveshsingh2004/Fullstack-assignment/)
 
 ---
 
-## Submission
-Ensure the following are submitted before **March 31, 2025**:
-- **GitHub Repository** (Public link)
-- **Google Drive Link** (Video demonstration)
+
 
 ---
 
-## Evaluation Criteria
-- ✅ **UI accurately matches Figma design**
-- ✅ **TypeScript used across frontend and backend**
-- ✅ **Proper state management with React Query**
-- ✅ **User schema implemented correctly in Prisma**
-- ✅ **Error handling in both frontend and backend**
-- ✅ **Well-structured, readable, and modular code**
-- ✅ **Detailed README and working video demo**
-
----
-
-## Conclusion
-This project demonstrates full-stack development skills using modern technologies. The React-based frontend efficiently interacts with the Node.js backend, implementing proper validation, authentication, and best practices.
-
----
-
-**Author:** [Your Name]
+**Author:** [Devesh Singh]
 
 For any questions, feel free to contact me.
 
